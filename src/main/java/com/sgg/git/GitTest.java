@@ -8,5 +8,7 @@ public class GitTest {
         System.out.println("hotfix");
         System.out.println("master test");
 
+        System.out.println("hotfix change");
+
     }
 }
