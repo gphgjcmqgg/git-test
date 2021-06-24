@@ -10,6 +10,6 @@ public class GitTest {
 
         System.out.println("hotfix change");
         System.out.println("push remote test");
-
+        System.out.println("github remote update");
     }
 }
